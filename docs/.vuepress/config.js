@@ -57,6 +57,7 @@ module.exports = {
           '/android/': genSidebar('android','Android'),
           '/ios/': genSidebar('ios','IOS'),
           '/h5/': genSidebar('h5','H5'),
+          '/wx/': genSidebar('wx','wechatMiniProgram'),
         }
       },
       '/zh/': {
@@ -82,7 +83,7 @@ module.exports = {
             link: '/zh/h5/'
           },
           {
-            text: 'shoppingCart plug-in',
+            text: '开源商城插件',
             link: '/zh/cart/'
           },
           {
@@ -95,6 +96,7 @@ module.exports = {
           '/zh/android/': genSidebar('android','Android'),
           '/zh/ios/': genSidebar('ios','IOS'),
           '/zh/h5/': genSidebar('h5','H5'),
+          '/zh/wx/': genSidebar('wx','微信小程序'),
         }
       }
     }
@@ -134,6 +136,14 @@ function genSidebar(name,title) {
       '1',
       '2',
       '3',
+      '4',
+    ],
+    wx: [
+      '',
+      '1',
+      '2',
+      '3',
+      '4',
     ],
   }
   return [

@@ -2,7 +2,7 @@
 home: true
 # heroImage: /hero.png
 actionText: Get Started →
-actionLink: /zh/pc/
+actionLink: /pc/
 features:
 - title: Intergration Documents for PC
   details:  Applicable for merchant to integrate UnionPay, Alipay，Tenpay and more cross border online payment.Applicable for Chinese domestic merchant to integrate UnionPay, Alipay, Wechat and credit card payment
