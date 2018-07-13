@@ -1,0 +1,22 @@
+{
+  "name": "b2c",
+  "version": "1.0.0",
+  "description": "b2c api文档",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.allpayx.com/OpenAPI/b2c.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.12.0"
+  }
+}
