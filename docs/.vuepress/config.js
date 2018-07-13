@@ -1,5 +1,5 @@
 module.exports = {
-  dest: 'dist',
+  dest: 'b2c',
   locales: {
     '/': {
       lang: 'en-US',
