@@ -17,7 +17,7 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
   themeConfig: {
-    repo: 'allpayx/allpayx.github.io',
+    repo: 'allpayx/b2c-docs',
     editLinks: true,
     docsDir: 'docs',
     locales: {
