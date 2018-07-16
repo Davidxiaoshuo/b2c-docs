@@ -44,11 +44,11 @@ module.exports = {
             link: '/h5/'
           },
           {
-            text: 'shoppingCart plug-in',
+            text: 'ShoppingCart plug-in',
             link: '/cart/'
           },
           {
-            text: 'wechatMiniProgram',
+            text: 'WechatMiniProgram',
             link: '/wx/'
           },
         ],
@@ -87,7 +87,7 @@ module.exports = {
             link: '/zh/cart/'
           },
           {
-            text: 'wechatMiniProgram',
+            text: '微信小程序',
             link: '/zh/wx/'
           },
         ],
