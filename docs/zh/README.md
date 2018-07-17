@@ -2,7 +2,7 @@
 home: true
 # heroImage: /hero.png
 actionText: 快速上手 →
-actionLink: /pc/
+actionLink: /zh/pc/
 features:
 - title: PC在线支付接入文档
   details: 适用于境外企业接入银联、支付宝、财付通跨境支付，适用于境内企业接入银联、支付宝、微信、国际信用卡支付
